@@ -1,0 +1,37 @@
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.content textarea {
+  width: 350px;
+  height: 100px !important;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+button.submit {
+  background-color: #be7250;
+  border-color: white;
+  color: white;
+  width: 130px;
+}
+
+button.submit:hover {
+  background-color: #423e3a;
+  color: white;
+}

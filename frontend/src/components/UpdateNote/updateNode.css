@@ -1,0 +1,10 @@
+button.modal {
+  background-color: #be7250;
+  border-color: white;
+  color: white;
+}
+
+button.modal:hover {
+  background-color: #423e3a;
+  color: white;
+}
